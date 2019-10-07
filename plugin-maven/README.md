@@ -70,6 +70,7 @@ To use it in your pom, just [add the Spotless dependency](https://search.maven.o
 </plugin>
 ```
 
+See below for the different `<configuration>` options (`Applying to...`).
 Spotless supports the following powerful formatters:
 
 * Eclipse's java code formatter (including style and import ordering)
